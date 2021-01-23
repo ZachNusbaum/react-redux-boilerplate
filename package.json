@@ -1,0 +1,8 @@
+{
+  "name": "react-ecosystem",
+  "version": "1.0.0",
+  "description": "A barebones react boilerplate.",
+  "main": "index.js",
+  "author": "Zachary D. Nusbaum",
+  "license": "MIT"
+}
